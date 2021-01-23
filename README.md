@@ -6,4 +6,4 @@
 
 [ngram function](https://github.com/Ravikumar-Pawar/Instance-based-Authorship-Attribtuion-kannada/blob/main/Jupyter-work/N_gram_Final.ipynb)
 
-[Instance-based process](C:\Users\RAVIKUMAR\Desktop\Pipeline-of-the-proposed-instance-based-approach.png)
+![alt text](https://github.com/Ravikumar-Pawar/Instance-based-Authorship-Attribtution-kannada/blob/main/Images/Pipeline-of-the-proposed-instance-based-approach.png)
