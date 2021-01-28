@@ -8,10 +8,8 @@
 
 
 
-
-> Authorship Attribution or Identification is major task to Identify the author of the particular script written!
+### Authorship Attribution or Identification is major task to Identify the author of the particular script written!
 ## This is flow diagram of the AA
-
 ![alt Process Image](https://github.com/Ravikumar-Pawar/Instance-based-Authorship-Attribtution-kannada/blob/main/Images/mfig002.jpg)
 
 > ### in this Repository **Jupyter-work**  folder that contains the Updated files! <br>
